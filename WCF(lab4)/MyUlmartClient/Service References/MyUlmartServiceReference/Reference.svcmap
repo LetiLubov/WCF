@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e7f676bb-9ab9-4461-b804-49340d9b7bc6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6099/MyUlmartService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyUlmartService.wsdl" MetadataType="Wsdl" ID="91234566-1868-4bb2-9e0b-448b870daaa9" SourceId="1" SourceUrl="http://localhost:6099/MyUlmartService.svc?wsdl" />
+    <MetadataFile FileName="MyUlmartService.disco" MetadataType="Disco" ID="41b66714-7567-4cb0-9437-dd660cf630a0" SourceId="1" SourceUrl="http://localhost:6099/MyUlmartService.svc?disco" />
+    <MetadataFile FileName="MyUlmartService.xsd" MetadataType="Schema" ID="d5913b45-e69c-4e0b-b4d7-24699a7a7c63" SourceId="1" SourceUrl="http://localhost:6099/MyUlmartService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MyUlmartService1.xsd" MetadataType="Schema" ID="d7827d6d-9651-4004-96d5-43d338a585eb" SourceId="1" SourceUrl="http://localhost:6099/MyUlmartService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MyUlmartService2.xsd" MetadataType="Schema" ID="2508a230-9ef9-49cc-8b9a-e3c12be25430" SourceId="1" SourceUrl="http://localhost:6099/MyUlmartService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

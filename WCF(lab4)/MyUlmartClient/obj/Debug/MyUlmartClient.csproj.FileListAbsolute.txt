@@ -1,0 +1,9 @@
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\bin\Debug\MyUlmartClient.exe.config
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\bin\Debug\MyUlmartClient.exe
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\bin\Debug\MyUlmartClient.pdb
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\obj\Debug\MyUlmartClient.csprojResolveAssemblyReference.cache
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\obj\Debug\MyUlmartClient.Form1.resources
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\obj\Debug\MyUlmartClient.Properties.Resources.resources
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\obj\Debug\MyUlmartClient.csproj.GenerateResource.Cache
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\obj\Debug\MyUlmartClient.exe
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\MyUlmartClient\obj\Debug\MyUlmartClient.pdb

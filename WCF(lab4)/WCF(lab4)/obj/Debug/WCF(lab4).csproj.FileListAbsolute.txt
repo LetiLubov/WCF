@@ -1,0 +1,9 @@
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\bin\WCF(lab4).dll
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\bin\WCF(lab4).pdb
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\obj\Debug\WCF(lab4).csprojResolveAssemblyReference.cache
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\obj\Debug\WCF(lab4).dll
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\obj\Debug\WCF(lab4).pdb
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\bin\HtmlAgilityPack.dll
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\bin\LiteDB.dll
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\bin\HtmlAgilityPack.pdb
+C:\Users\kisa\Documents\Visual Studio 2012\Projects\Sharp\WCF(lab4)\WCF(lab4)\bin\HtmlAgilityPack.xml

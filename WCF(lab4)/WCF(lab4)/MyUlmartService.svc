@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCF_lab4_.MyUlmartService" CodeBehind="MyUlmartService.svc.cs" %>
